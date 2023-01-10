@@ -54,8 +54,8 @@ export const info = {
     bio: "Hello! I'm Alwin Ning. I'm a first-year mathematics student at the University of Waterloo.",
     skills:
         {
-            proficientWith: ['C', 'Java', 'Python', 'Javascript', 'Github', 'Excel'],
-            exposedTo: ['Nodejs', 'React', 'Html', 'Adobe Photoshop']
+            proficientWith: ['C', 'Java', 'Python',  'Excel'],
+            exposedTo: ['Javascript', 'Github', 'Nodejs', 'React', 'Html', 'Adobe Photoshop']
         }
     ,
     hobbies: [
