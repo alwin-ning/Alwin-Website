@@ -13,7 +13,7 @@ export const info = {
     firstName: "Alwin",
     lastName: "Ning",
     initials: "AN", 
-    position: "student at the University of Waterloo",
+    position: "Student at the University of Waterloo",
     selfPortrait: self, 
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
